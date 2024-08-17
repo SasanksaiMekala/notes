@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notes-app-tutorial/static/css/main.2ec5864f.css",
+    "main.js": "/notes-app-tutorial/static/js/main.e801adf6.js",
+    "index.html": "/notes-app-tutorial/index.html",
+    "main.2ec5864f.css.map": "/notes-app-tutorial/static/css/main.2ec5864f.css.map",
+    "main.e801adf6.js.map": "/notes-app-tutorial/static/js/main.e801adf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec5864f.css",
+    "static/js/main.e801adf6.js"
+  ]
+}
